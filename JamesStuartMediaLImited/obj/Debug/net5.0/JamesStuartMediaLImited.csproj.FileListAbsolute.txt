@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\bin\Debug\net5.0\JamesStuartMediaLImited.exe
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\bin\Debug\net5.0\JamesStuartMediaLImited.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\bin\Debug\net5.0\JamesStuartMediaLImited.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\bin\Debug\net5.0\JamesStuartMediaLImited.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\bin\Debug\net5.0\JamesStuartMediaLImited.dll
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\bin\Debug\net5.0\ref\JamesStuartMediaLImited.dll
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\bin\Debug\net5.0\JamesStuartMediaLImited.pdb
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\obj\Debug\net5.0\JamesStuartMediaLImited.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\obj\Debug\net5.0\JamesStuartMediaLImited.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\obj\Debug\net5.0\JamesStuartMediaLImited.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\obj\Debug\net5.0\JamesStuartMediaLImited.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\obj\Debug\net5.0\JamesStuartMediaLImited.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\obj\Debug\net5.0\JamesStuartMediaLImited.dll
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\obj\Debug\net5.0\ref\JamesStuartMediaLImited.dll
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\obj\Debug\net5.0\JamesStuartMediaLImited.pdb
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\JamesStuartMediaLImited\obj\Debug\net5.0\JamesStuartMediaLImited.genruntimeconfig.cache

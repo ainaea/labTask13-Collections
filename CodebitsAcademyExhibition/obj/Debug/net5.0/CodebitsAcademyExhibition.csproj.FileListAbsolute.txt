@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\obj\Debug\net5.0\CodebitsAcademyExhibition.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\obj\Debug\net5.0\CodebitsAcademyExhibition.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\obj\Debug\net5.0\CodebitsAcademyExhibition.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\obj\Debug\net5.0\CodebitsAcademyExhibition.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\obj\Debug\net5.0\CodebitsAcademyExhibition.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\bin\Debug\net5.0\CodebitsAcademyExhibition.exe
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\bin\Debug\net5.0\CodebitsAcademyExhibition.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\bin\Debug\net5.0\CodebitsAcademyExhibition.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\bin\Debug\net5.0\CodebitsAcademyExhibition.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\bin\Debug\net5.0\CodebitsAcademyExhibition.dll
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\bin\Debug\net5.0\ref\CodebitsAcademyExhibition.dll
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\bin\Debug\net5.0\CodebitsAcademyExhibition.pdb
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\obj\Debug\net5.0\CodebitsAcademyExhibition.dll
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\obj\Debug\net5.0\ref\CodebitsAcademyExhibition.dll
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\obj\Debug\net5.0\CodebitsAcademyExhibition.pdb
+C:\CodebitsAcademy\C#  labTask\labTask13-Collections\CodebitsAcademyExhibition\obj\Debug\net5.0\CodebitsAcademyExhibition.genruntimeconfig.cache
